@@ -1,3 +1,6 @@
+#------------------------------------------------------------------------------
+# Autores: Leonardo Felix, Gisela Miranda Difini, Karolina Pacheco, Tiago Costa
+#------------------------------------------------------------------------------
 from numpy import random
 import random as rand
 
