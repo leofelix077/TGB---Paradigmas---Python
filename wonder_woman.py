@@ -77,7 +77,7 @@ def scramble_word():
             
 def get_word():
     global word
-    word = words[random.randint(0,NUMBER_OF_TRIES())]
+    word = words[random.randint(0,len(words)]
         
 def start_decode_game():
     tries = 0
